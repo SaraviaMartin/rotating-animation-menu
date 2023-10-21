@@ -32,7 +32,7 @@ body {
 }
 
 .circle {
-  background-color: #ff7979;
+  background-color: #fc5130;
   height: 200px;
   width: 200px;
   border-radius: 50%;
@@ -53,7 +53,7 @@ body {
   background: transparent;
   border: 0;
   font-size: 26px;
-  color: #fff;
+  color: #050401;
 }
 
 .circle button:focus {
@@ -111,13 +111,13 @@ nav ul li + li + li {
 }
 
 nav a{
-  color: #fafafa;
+  color: #fffaff;
   text-decoration: none;
   transition: all 0.5s;
 }
 
 nav a:hover {
-  color: #FF7979;
+  color: #fc5130;
   font-weight: bold;
 }
 
